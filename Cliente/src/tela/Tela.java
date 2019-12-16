@@ -1,6 +1,5 @@
 package tela;
 
-import java.net.Socket;
 import java.util.Scanner;
 
 public class Tela {
